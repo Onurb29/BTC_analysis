@@ -6,7 +6,8 @@ It collects and analyzes **Bitcoin market, on-chain, and sentiment data** using 
 All data is stored locally in an **SQLite database**, processed using Python, and visualized with Plotly.
 
 <img width="1706" height="593" alt="image" src="https://github.com/user-attachments/assets/6dfe31a6-340f-481f-a75f-f317615d62ca" />
-<img width="1712" height="593" alt="image" src="https://github.com/user-attachments/assets/d15c56e2-b39d-401d-842d-cdeb6cc49580" />
+<img width="1703" height="593" alt="image" src="https://github.com/user-attachments/assets/80538e95-fb40-4ead-8ddc-a3cc90a4498b" />
+
 
 ---
 
