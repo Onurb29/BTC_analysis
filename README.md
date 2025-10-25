@@ -81,4 +81,4 @@ You can explore and query your local database visually using **[DB Browser for S
 
 **Jimmy Perron**
 *Analyst – Technical Systems | Industrial IT & Data Engineering*
-[GitHub Profile](https://github.com/<your-username>)
+[GitHub Profile](https://github.com/Onurb29)
