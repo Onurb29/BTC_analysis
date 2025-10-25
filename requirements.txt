@@ -1,0 +1,12 @@
+# Core external dependencies
+requests
+humanize
+pandas
+plotly
+
+# Optional: MySQL client (for users migrating from SQLite)
+mysqlclient  # or use 'pymysql' if mysqlclient fails to build
+
+# Standard libraries (already included with Python, listed here for clarity)
+# os
+# sqlite3

@@ -1,0 +1,10 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local database file
+btc_analysis.db
+
+# Ignore environment files if any
+.env
