@@ -23,11 +23,14 @@ All data is stored locally in an **SQLite database**, processed using Python, an
 
 ## 🧮 Tech Stack
 
-* **Python 3.11+**
-* **SQLite (Local Database)** – lightweight and built into Python
+* **Python 3.11+ (https://img.shields.io/badge/Python-3.11+-blue)**
+* **SQLite (Local Database) (https://img.shields.io/badge/Database-SQLite-lightgrey)** – lightweight and built into Python
 * **DB Browser for SQLite** – recommended GUI for exploring data
-* **APIs:** CoinGecko, Alternative.me
+* **APIs:** CoinGecko, Alternative.me (https://img.shields.io/badge/Data-API-green)
 * **Libraries:** `requests`, `pandas`, `plotly`, `humanize`
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange)
+
+
 
 ---
 
