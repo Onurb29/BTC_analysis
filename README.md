@@ -5,6 +5,7 @@ This project was developed independently as a personal data engineering and anal
 It collects and analyzes **Bitcoin market, on-chain, and sentiment data** using public APIs.
 All data is stored locally in an **SQLite database**, processed using Python, and visualized with Plotly.
 
+<img width="1706" height="593" alt="image" src="https://github.com/user-attachments/assets/6dfe31a6-340f-481f-a75f-f317615d62ca" />
 ---
 
 ## 📊 Features
@@ -83,5 +84,5 @@ You can explore and query your local database visually using **[DB Browser for S
 *Analyst – Technical Systems | Industrial IT & Data Engineering*
 [GitHub Profile](https://github.com/Onurb29)
 
-<img width="1706" height="593" alt="image" src="https://github.com/user-attachments/assets/6dfe31a6-340f-481f-a75f-f317615d62ca" />
+
 
